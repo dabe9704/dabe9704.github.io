@@ -5,9 +5,7 @@ body{
 	background-color: #F2F2F2;
 	margin: 0;
 	padding: 0;
-	background-image: url("https://cloud.githubusercontent.com/assets/22473106/20644114/54d0a6d8-b3e7-11e6-99f6-17a354cbb1a2.jpg");
-	background-repeat: no-repeat;
-	background-position: center top;
+	
 }	
 
 .header{
@@ -42,6 +40,9 @@ h5{
 	text-align: center;
 	padding: 25px 25px;
 	color: #FFFFFF;
+	background-image: url("https://cloud.githubusercontent.com/assets/22473106/20644114/54d0a6d8-b3e7-11e6-99f6-17a354cbb1a2.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
 }
 
 .container{
