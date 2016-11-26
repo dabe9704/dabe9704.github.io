@@ -37,7 +37,7 @@ h5{
 
 .main{
 	text-align: center;
-	background-image: url(https://cloud.githubusercontent.com/assets/22473106/20644055/e74219d6-b3e5-11e6-9d3c-00b001a90932.jpg);
+	background-image: url("https://cloud.githubusercontent.com/assets/22473106/20644055/e74219d6-b3e5-11e6-9d3c-00b001a90932.jpg");
 	background-repeat: no-repeat;
 	background-position: center top;
 	padding: 25px 25px;
