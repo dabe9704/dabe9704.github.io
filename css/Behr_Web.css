@@ -1,0 +1,61 @@
+
+body{
+	font-family: Georgia, Times, serif;
+	font-size: 12px;
+	background-color: #F2F2F2;
+	margin: 0;
+	padding: 0;
+}	
+
+.header{
+	margin-top: 20px;
+	
+}
+
+.header h2{
+	text-align: center;
+}
+
+h5{
+	text-align: center;
+}
+
+.links{
+	width: 70%;
+	margin: 10px auto 10px auto;
+}
+
+.links ul{
+	text-align: center;
+}
+
+.links li{
+	display: inline-block;
+	margin-left: 5px;
+	padding: 5px 10px;
+}
+
+.main{
+	text-align: center;
+	background-image: url("img/wood.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding: 25px 25px;
+	color: #FFFFFF;
+}
+
+.container{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.main p{
+	margin: 10px 10px;
+	font-size: 18px;
+}
+
+.footer{
+	text-align: center;	
+	padding: 10px 20px;
+	font-size: 18px;
+}
