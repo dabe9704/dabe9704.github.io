@@ -17,6 +17,11 @@ body{
 	margin: 0 auto;
 }
 
+.header img.medium{
+	width: 544px;
+	height: 173px;
+}
+
 h5{
 	text-align: center;
 }
