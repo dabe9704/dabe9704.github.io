@@ -60,6 +60,16 @@ h5{
 	font-size: 18px;
 }
 
-a{
-	color: #0164D9;
+a {
+	color:#FF0000;
+}      
+
+a:visited {
+	color:#00FF00;
+}
+a:hover {
+	color:#FF00FF;
+}  
+a:active {
+	color:#0000FF;
 }
